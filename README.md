@@ -10,7 +10,7 @@ Split data into train and test parts.
 
 Train the data to predict the result.
 
-create a chart figure to see the result.
+Create a chart figure to see the result.
 
 ---
 ## Codes
